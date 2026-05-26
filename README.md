@@ -22,6 +22,3 @@ python scanner.py scanme.nmap.org -s 1 -e 1024
 - TCP sockets and the connect handshake
 - Threading with `concurrent.futures`
 - CLI argument parsing
-
-## ⚠️ Legal Notice
-Only scan systems you own or have explicit permission to scan.
